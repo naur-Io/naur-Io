@@ -36,7 +36,7 @@ I actively work with backend structuring, API design, modularization, and techni
 - Integration with databases and external systems
 
 ## Mobile Engineering
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
 
 ## DevOps, Cloud & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,docker&theme=light)](https://skillicons.dev)
