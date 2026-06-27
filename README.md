@@ -1,35 +1,33 @@
+# Hi, I'm naur 
+
 <p>
-Hi there! I'm a Software Engineer focused on building AI-powered products
-the kind where the intelligence is baked in, not bolted on
+Software Engineer building AI-native products where intelligence is part of the architecture, not an afterthought.
 </p>
 
-💻 **Full Stack Engineer | AI-focused**
-<br>
-📚 Postgraduate in **Software Engineering** – CIn UFPE / Motorola
-<br>
-🎓 Bachelor's in **Systems Analysis and Development**
-<br>
-📟 **Fullstack Instructor** – Softex Recife
-<br>
-👨🏻‍💻 **Porto Digital Software Residence Program**
+- 💻 **Full Stack Software Engineer** · AI-focused
+- 🎓 Bachelor's in **Systems Analysis and Development**
+- 📚 Postgraduate in **Software Engineering** — CIn UFPE × Motorola
+- 👨🏻‍🏫 **Full Stack Instructor** — Softex Recife
+- 🚀 **Software Resident** — Porto Digital
 
----
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,ts,vue,nodejs,java,postgres,docker)](https://skillicons.dev)
 
-## what I build with
+**AI** → OpenAI API · LangChain · RAG · LoRA Fine-tuning · Firecrawl
 
-[![My Skills](https://skillicons.dev/icons?i=python,vue,ts,nodejs)](https://skillicons.dev)
+**Frontend** → Vue · TypeScript · Tailwind CSS
 
-**AI layer** → LangChain · RAG · LoRA fine-tuning · OpenAI API · Firecrawl  
-**Frontend** → Vue · TypeScript · TailwindCSS  
-**Backend** → API · SpringBoot · Node.js  
-**Infra** → Docker · PostgreSQL · MongoDB · REST APIs
+**Backend** → Node.js · Spring Boot · REST APIs
 
----
+**Infrastructure** → Docker · PostgreSQL · AWS · Kubernetes
 
-## currently
+## What I'm doing
 
-↳ building AI products  
-↳ backpacking South America → Europe  
-↳ open to remote work and relocation  
+* Building AI-native products
+* Backpacking across South America
+* Open to remote opportunities and relocation
 
-→ [linkedin](https://linkedin.com/in/ruanrickelmeramos) · [inaur.vercel.app](https://inaur.vercel.app)
+## Find me
+
+🌐 **Portfolio:** https://inaur.vercel.app
+💼 **LinkedIn:** https://linkedin.com/in/ruanrickelmeramos
