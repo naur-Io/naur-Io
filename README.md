@@ -7,8 +7,6 @@ Software Engineer building AI-native products where intelligence is part of the 
 - 💻 **Full Stack Software Engineer** · AI-focused
 - 🎓 Bachelor's in **Systems Analysis and Development**
 - 📚 Postgraduate in **Software Engineering** — CIn UFPE × Motorola
-- 👨🏻‍🏫 **Full Stack Instructor** — Softex Recife
-- 🚀 **Software Resident** — Porto Digital
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,ts,vue,nodejs,java,postgres,docker)](https://skillicons.dev)
