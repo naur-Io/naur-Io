@@ -1,49 +1,35 @@
 <p>
-Hi there ! im Software Engineer with a strong mindset, focused on building scalable, maintainable and well-architected systems.
-I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving.
+Hi there! I'm a Software Engineer focused on building AI-powered products
+the kind where the intelligence is baked in, not bolted on
 </p>
 
-💻 **Software Engineer | Architecture-Oriented**
+💻 **Full Stack Engineer | AI-focused**
 <br>
-📚 Postgraduate student in **Software Engineering** – CIn UFPE / Motorola
+📚 Postgraduate in **Software Engineering** – CIn UFPE / Motorola
 <br>
-🎓 Bachelor's degree in **Systems Analysis and Development**
+🎓 Bachelor's in **Systems Analysis and Development**
 <br>
-🧠 Teaching Assistant in **Computer Operator and Data Analysis** – CESAR School
+📟 **Fullstack Instructor** – Softex Recife
 <br>
-📟 **Fullstack Web Development Instructor** – Softex Recife
-<br>
-👨🏻‍💻 Member of the **Porto Digital Software Residence Program**
+👨🏻‍💻 **Porto Digital Software Residence Program**
 
+---
 
-## Professional Focus
-- Software Architecture & System Design  
-- Scalable backend and distributed systems  
-- Cross-team collaboration and technical leadership  
-- Quality, reliability and test-oriented engineering  
+## what I build with
 
-I actively work with backend structuring, API design, modularization, and technical standards, supporting teams in building robust and scalable projects
+[![My Skills](https://skillicons.dev/icons?i=python,vue,ts,nodejs)](https://skillicons.dev)
 
-## Software Engineering & Web Backend
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,python,ts,express,nestjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,vite,styledcomponents&theme=light)](https://skillicons.dev)
+**AI layer** → LangChain · RAG · LoRA fine-tuning · OpenAI API · Firecrawl  
+**Frontend** → Vue · TypeScript · TailwindCSS  
+**Backend** → API · SpringBoot · Node.js  
+**Infra** → Docker · PostgreSQL · MongoDB · REST APIs
 
-- RESTful APIs and service-oriented design
-- Java and Node.js for backend services
-- Python for scripting and automation
-- Frontend development with React and Vue.js
-- Clean Architecture & separation of concerns
-- Integration with databases and external systems
+---
 
-## Mobile Engineering
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
+## currently
 
-## DevOps, Cloud & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker&theme=light)](https://skillicons.dev)
+↳ building AI products  
+↳ backpacking South America → Europe  
+↳ open to remote work and relocation  
 
-## Data, Databases & Automation
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,selenium,sequelize&theme=light)](https://skillicons.dev)
-
-## Tools & Engineering Practices
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,cypress,graphql,figma,obsidian,arduino&theme=light)](https://skillicons.dev)
-
+→ [linkedin](https://linkedin.com/in/ruanrickelmeramos) · [inaur.vercel.app](https://inaur.vercel.app)
