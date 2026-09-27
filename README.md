@@ -12,7 +12,7 @@ Full Stack Software Engineer with 5+ years of experience building scalable web a
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,ts,nodejs,vue,react,spring,postgres,docker,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,nodejs,python,vue,react,spring,postgres,docker,mongodb)](https://skillicons.dev)
 
 - **Frontend** → Vue (Nuxt) · React (Next) · TypeScript · Tailwind CSS
 - **Backend** → Java Spring Boot · Node.js · REST APIs
